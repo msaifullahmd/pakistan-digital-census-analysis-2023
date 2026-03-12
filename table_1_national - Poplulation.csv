@@ -1,0 +1,33 @@
+"TABLE 1 : AREA, POPULATION BY SEX, SEX RATIO, POPULATION DENSITY, URBAN POPULATION, HOUSEHOLD SIZE AND ANNUAL GROWTH RATE, CENSUS-2023",,,,,,,,,,,
+NAME OF ADMINISTRATIVE UNIT,AREA IN SQ.KM,POPULATION-2023,,,,,,,,POPULATION 2017,2017-2023 AVG. ANNUAL G.RATE
+,,ALL SEXES,MALE,FEMALE,TRANS GENDER,SEX RATIO,DENSITY PER SQ.KM,URBAN PROPORTION,AVG. H.HOLD SIZE,,
+,,,,,,,,,,,
+PAKISTAN,"796,096","  241,499,431 ","124,324,406","117,154,694","20,331",106.12,303.35,38.88,6.3,"207,684,626",2.55
+RURAL,,"  147,614,729 ","75,592,790","72,017,097","4,842",104.97,,,6.3,"132,013,789",1.88
+URBAN,,"  93,884,702 ","48,731,616","45,137,597","15,489",107.96,,,6.2,"75,670,837",3.67
+,,,,,,,,,,,
+KHYBER PAKHTUNKHWA,"101,741","  40,856,097 ","20,845,747","20,009,233","1,117",104.18,401.57,15.01,6.9,"35,501,964",2.38
+RURAL,,"  34,724,801 ","17,685,692","17,038,648",461,103.80,,,6.9,"29,626,670",2.69
+URBAN,,"  6,131,296 ","3,160,055","2,970,585",656,106.38,,,6.7,"5,875,294",0.72
+,,,,,,,,,,,
+PUNJAB,"205,345","  127,688,922 ","65,448,376","62,226,589","13,957",105.18,621.83,40.71,6.4,"109,989,655",2.53
+RURAL,,"  75,712,955 ","38,625,841","37,083,868","3,246",104.16,,,6.4,"69,442,450",1.46
+URBAN,,"  51,975,967 ","26,822,535","25,142,721","10,711",106.68,,,6.3,"40,547,205",4.24
+ ,,,,,,,,,,,
+SINDH,"140,914","  55,696,147 ","29,014,424","26,677,501","4,222",108.76,395.25,53.97,5.6,"47,854,510",2.57
+RURAL,,"  25,639,408 ","13,245,373","12,393,405",630,106.87,,,5.4,"23,021,876",1.82
+URBAN,,"  30,056,739 ","15,769,051","14,284,096","3,592",110.40,,,5.8,"24,832,634",3.24
+,,,,,,,,,,,
+BALOCHISTAN,"347,190","  14,894,402 ","7,768,166","7,125,471",765,109.02,42.90,30.96,6.4,"12,335,129",3.20
+RURAL,,"  10,282,574 ","5,379,780","4,902,339",455,109.74,,,6.1,"8,928,428",2.39
+URBAN,,"  4,611,828 ","2,388,386","2,223,132",310,107.43,,,7.0,"3,406,701",5.19
+,,,,,,,,,,,
+ISLAMABAD ,906,"  2,363,863 ","1,247,693","1,115,900",270,111.81,"2,609.12",46.91,5.7,"2,003,368",2.80
+RURAL,,"  1,254,991 ","656,104","598,837",50,109.56,,,5.5,"994,365",3.97
+URBAN,,"  1,108,872 ","591,589","517,063",220,114.41,,,5.9,"1,009,003",1.59
+,,,,,,,,,,,
+" * The  table-1 is based on all population of Pakistan including the headcount information received mainly  from restricted areas, where no demographic & housing information     received. However from table 4 onwards details of  all population where all detailed information is received . Table 4 will be basis for matching the population for detailed characteristics.",,,,,,,,,,,
+,,,,,,,,,,,
+"Table 1 encompasses data from the entire population of Pakistan, incorporating headcount information primarily from restricted areas where demographic and housing details were not obtained. In contrast, tables from Table 4 onwards include comprehensive information from all population segments where detailed characteristics are available. Table 4 serves as the foundation for aligning population data with specific detailed traits.",,,,,,,,,,,
+,,,,,,,,,,,
+" * The  table-1 is based on all population of Pakistan including the headcount information received mainly  from restricted areas, where no demographic & housing information     received. However table-4 providing  based of  all population, where all detailed information were received . Table 4 will be basis for matching the population for detailed characteristics.",,,,,,,,,,,
