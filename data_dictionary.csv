@@ -1,0 +1,13 @@
+variable_name,description,data_type,example,notes
+NAME OF ADMINISTRATIVE UNIT,Name of province/division/district,string,"Punjab, Lahore, Karachi",Hierarchical administrative levels
+AREA IN SQ.KM,Geographic area in square kilometers,numeric,205344,Land area only
+ALL SEXES,Total population (all genders),numeric,127688922,Male + Female + Transgender
+MALE,Male population count,numeric,65217408,
+FEMALE,Female population count,numeric,62462487,
+TRANS GENDER,Transgender population count,numeric,9027,Officially counted first time in 2023
+SEX RATIO,Males per 100 females,numeric,104.39,Calculated as (Male/Female)*100
+DENSITY PER SQ.KM,Population per square kilometer,numeric,622,Total population divided by area
+URBAN PROPORTION,Percentage of population in urban areas,numeric,36.7,Ranges from 0-100%
+AVG. H.HOLD SIZE,Average persons per household,numeric,6.7,Total population divided by households
+POPULATION 2017,Population from 2017 census,numeric,110012442,For calculating growth rate
+2017-2023 AVG. ANNUAL G.RATE,Average yearly growth rate between censuses,numeric,2.55,Expressed as percentage
